@@ -1,5 +1,5 @@
 # bot-text-detection
-A NLP project from Master of Data Science in HSE on Coursera, which aims at **differentiating the human and bot text from time series features.**
+A NLP project from Master of Data Science in HSE on Coursera, which aims at **differentiating the human and bot text with time series features.**
 ## 1.Prepare English,Chinese and Russian Corpus:
 	Text Cleansing
 	Make Corpus
